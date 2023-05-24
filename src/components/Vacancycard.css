@@ -1,0 +1,43 @@
+
+
+.navbar-text{
+    margin:10px 200px;
+}
+
+.card-title-img{
+    display:flex;
+    align-items: center;
+}
+
+.salaryDate{
+    display:flex;
+    justify-content: space-between;
+    font-size: 0.7rem;
+    padding:10px 7px
+
+}
+
+.card .card-body{
+    padding-left: 30px;
+    padding-right: 30px;
+    -webkit-box-shadow: 4px 3px 34px -9px rgba(0,0,0,0.69);
+    -moz-box-shadow: 4px 3px 34px -9px rgba(0,0,0,0.69);
+    box-shadow: 4px 3px 34px -9px rgba(0,0,0,0.69);
+}
+
+
+.card .card-title{
+    font-size: 1rem;
+}
+
+.card .card-text{
+    font-size: 0.7rem;
+    line-height: inherit;
+    padding: 0px 7px;
+}
+
+h5 {
+    color: dimgrey;
+}
+
+

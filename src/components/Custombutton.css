@@ -1,0 +1,27 @@
+.dot{
+    width: 5px;
+    height: 5px;
+    background-color: #000;
+    border-radius: 90%;
+    margin-bottom: 4px;
+}
+
+
+.dropdown .dropdown-toggle::after {
+    content: none;
+}
+
+.dropdown .custom-toggle-btn{
+
+
+padding: 0;
+margin: 0;
+background: none;
+
+}
+
+.dropdown .dropdown-menu {
+    position: absolute;
+    inset: 0px auto auto 0px;
+    transform: translate3d(164px, 27.6667px, 0px);
+}
